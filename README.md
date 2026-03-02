@@ -3,16 +3,11 @@
 A simple but powerful proxy admin with a lot of built-in commands.
 
 ## About
-This is an undetected and safe proxy admin made to run smoothly without causing issues. It’s lightweight, stable, and easy to work with.
+This is an undetected and safe proxy admin made to run smoothly without causing issues. It’s lightweight, stable, and easy to work with
 
 ## Features
 - Large amount of admin commands  
-- Moderation tools  
-- Player utilities  
-- Movement commands  
-- Fun commands  
-- Server-related tools  
-- Easy to expand and customize  
+- well made commands
 
 ## Performance
 Built to be efficient and not heavy on resources.
